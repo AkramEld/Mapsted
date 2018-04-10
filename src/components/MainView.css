@@ -1,0 +1,54 @@
+.App-Samsung {
+margin-left: 50px;
+}
+.div{
+    display:inline;
+    margin-left:50px;
+}
+.App-Title{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Lucida Console;
+
+}
+
+.App-Loading{
+    text-align: center;
+    margin-top: 200px;
+    }
+
+.App-hello {
+    margin-left:50px;
+    position: absolute;
+}
+
+.App-Buttons {
+
+}
+.App-forty {
+    margin-left:220px;
+    margin-top:5000px;
+}
+
+.App-purchase {
+    margin-left:10px;
+}
+
+.App-ontario {
+    margin-left:5px;
+}
+.App-united {
+    margin-left:10px;
+}
+.App-max {
+    margin-left:10px;
+}
+.App-description{
+    text-align: center;
+}
+
+
+
+.mainbuttons{
+    margin-top: 10000px;
+}
